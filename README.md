@@ -3,7 +3,8 @@ If you have issues or questions not answered within this document, please join o
 Please use the Table of contents below to navigate this document.
 ##  Table of Contents
 1. General Interface
-2. Shocker Interface<br> 2.1 VR Interface<br> 2.2 Sharelinks and codes<br>&nbsp;&nbsp;&nbsp;&nbsp;2.2.1 Share Codes<br>&nbsp;&nbsp;&nbsp;&nbsp;2.2.1 Share Links<br> 
+2. Shocker Interface<br> 2.1 VR Interface<br> 2.2 Sharelinks and codes<br>&nbsp;&nbsp;&nbsp;&nbsp;2.2.1 Share Codes<br>&nbsp;&nbsp;&nbsp;&nbsp;2.2.1 Share Links<br>
+3. Tips<br> 3.1 Convention Use
 ---
 
 ## 1. General Interface
@@ -58,7 +59,7 @@ Please use the Table of contents below to navigate this document.
 ![PiShock Shocker](https://i.imgur.com/g64jkEA.png)
 | Nr. | Name          | Description                                                                                                              |
 |-----|---------------|--------------------------------------------------------------------------------------------------------------------------|
-| 1   | Can Pause     | Enabling this Option allows the User of that code to Pause **and Unpause** the shocker                                   |
+| 1   | Can Pause     | Enabling this Option allows the User of that code to Pause ***and Unpause*** the shocker                                   |
 | 2   | Max Duration  | The Maximum duration of an Action the User of that code can trigger (Note: This does not affect holding the button down) |
 | 3   | Max Intensity | The Maximum intensity of an Action the User of that code can trigger                                                     |
 
