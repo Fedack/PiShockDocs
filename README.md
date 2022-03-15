@@ -3,7 +3,7 @@ If you have issues or questions not answered within this document, please join o
 Please use the Table of contents below to navigate this document.
 ##  Table of Contents
 1. General Interface
-2. Shocker Interface<br> 2.1 Creating Share Links<br> 2.2 Creating Share Codes<br> 2.3 VR Interface
+2. Shocker Interface<br> 2.1 VR Interface<br> 2.2 Sharelinks and codes<br>&nbsp;&nbsp;&nbsp;&nbsp;2.2.1 Share Codes<br>&nbsp;&nbsp;&nbsp;&nbsp;2.2.1 Share Links<br> 
 ---
 
 ## 1. General Interface
@@ -34,7 +34,30 @@ Please use the Table of contents below to navigate this document.
 | 3   | Shock Button        | Press to trigger a Shock, Hold to trigger a continuous shock till you release the button         |
 | 4   | Vibrate Button      | Press to trigger a Vibration, Hold to trigger a continuous vibration till you release the button |
 | 5   | Safety              | Press to Engage/Disengage the Safety, Prevents both Shocks and Vibrations                       |
-### 2.2 Creating Share Links
-### 2.3 Creating Share Codes
+### 2.2 Sharelinks and codes
+![PiShock Shocker](https://i.imgur.com/M0yU0Vr.png)
+| Nr. | Name       | Description                                                                               |
+|-----|------------|-------------------------------------------------------------------------------------------|
+| 1   | Share Code | Click to Create a new Share Code              |
+| 2   | Share Link | Click to Create a new Share Link   |
+
+### 2.2.1 Share Codes
+*Share Codes are used to grant a single User persistent access to the shocker, To Create a new Share Code press "New Share Code".*
+![PiShock Shocker](https://i.imgur.com/2lkay6k.png)
+| Nr. | Name                       | Description                                                                                                                                             |
+|-----|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Share Code                 | The actual code to share, this changes to the Name of the User after they have added the code to their Account                                          |
+| 2   | Modify Share code          | Press to change the options of the Share code such as maximum duration and intensity as well as other options (further explained below)                 |
+| 3   | Pause Share code           | Press to Pause / Unpause the Share code, this prevents actions from being triggered via that code                                                       |
+| 4   | Delete / Revoke Share code | Press to Delete the Share code, this will prevent any further actions from being triggered via that code and will remove it from all accounts including yours |
+
+**Share code Options**<br>
+![PiShock Shocker](https://i.imgur.com/g64jkEA.png)
+
+
+### 2.2.2 Share Links
+*Share links are used to grant a single Person or a group temporary access to the shocker.*
+
+
 
 
