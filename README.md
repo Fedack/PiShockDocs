@@ -1,5 +1,29 @@
 # PiShock Documentation
 If you have issues or questions not answered within this document, please join our [Discord-Community](https://discord.gg/MrNb9CQyYA).<br>
+
+---
+##  Safety Instructions
+**Please read familiarize yourself with the following Instructions before play and or First usage of your PiShock.**
+#### **Placement**
+***DO NOT*** Place the shocker in or around any of the Areas Highlighted below (Everywhere on the Head and Neck, Everywhere on the Chest in Proximity to your Heart and anywhere along your back in Proximity to your Spine).
+![PiShock Shocker](https://i.imgur.com/8vVlH3B.png)
+Some of Community Favorite Spots to place the shocker Include:
+- In and around the Genital Area
+- On the Inner Thigh
+- Just above the Ankles 
+
+Feel free to Experiment and to Share your Experiences with the Community.
+
+#### **S.S.A.C** (**S**afe **S**ane **A**nd **C**onsentual)
+Please keep in mind that this is an Adult Toy whith the purpos of Inflicting pain on your Partner.<br>
+Make sure to discuss your and your partner's Limits before engaging in play.<br>
+Be aware that Certain Conditions (eg. Alcohol Intoxication) Can not only Limit your Partner's ability to consent but also affect their Pain Perception.<br>
+
+#### **Disclaimer**
+*Usage of the shocker in any of the Areas outlined above can lead to permanent injury and is strongly discuraged.* *PiShock is not responisble for any Injuries or Harm sustained by you or a 3rd Party sustained whilst using the shockers.*<br>
+*Play Safely and know your Limits.*
+
+---
 Please use the Table of contents below to navigate this document.
 ##  Table of Contents
 1. General Interface<br> 1.1 Advanced Settings
@@ -122,19 +146,24 @@ Share links are used to grant a single Person or a group temporary access to the
 ### 2.3.1. Using Share Codes
 #### **Adding a Share Code**
 Please follow the steps below to add a share code to your Account.<br>
-1: Click on "Shared"<br>
+**1:** Click on "Shared"<br>
 ![PiShock Shocker](https://i.imgur.com/vVU8KoV.png)
 
-2: Click on the Plus Button in the bottom right corner of the Page<br>
+**2:** Click on the Plus Button in the bottom right corner of the Page<br>
 ![PiShock Shocker](https://i.imgur.com/aCfn4eC.png)
 
-3: Select "Shocker", Enter the Code in the Field labled "Enter Share Code", Click "OK"<br>
+**3:** Select "Shocker", Enter the Code in the Field labled "Enter Share Code", Click "OK"<br>
 ![PiShock Shocker](https://i.imgur.com/4i1AOMo.png)
+
+#### **Using a Share Code**
+Once added, a Shocker accessed via Share Code can be controlled like your own Shocker.<br>
+With the Exception that the Shockers Owner can Pause and or Revoke access at any time.<br>**Please consult the Safety Instructions at the beginning of this document before play.**
+
 ## 3. Tips
 ### 3.1. Portable Operation
 Using the PiShock while moving around in a space such as a Convention Floor requires nothing more then a Hotspot connection as well as a External powersource. 
 #### **Power** 
-Powering the PiShock is as simply connecting it to a Powersouce that can supply at least `5V/1A` like a Powerbank.
+Powering the PiShock is as simply connecting it to a Powersouce that can supply at least `5V/2A` like a Powerbank.
 <br>
 It is alternatively also possible to Power the PiShock via it's GPIO Pins using a LiPo (and optionally a battery hat) for an even more portable and compact solution.
 
