@@ -3,7 +3,7 @@ If you have issues or questions not answered within this document, please join o
 Please use the Table of contents below to navigate this document.
 ##  Table of Contents
 1. General Interface<br> 1.1 Advanced Settings
-2. Shocker Interface<br> 2.1 VR Interface<br> 2.2 Sharelinks and codes<br>&nbsp;&nbsp;&nbsp;&nbsp;2.2.1 Share Codes<br>&nbsp;&nbsp;&nbsp;&nbsp;2.2.1 Share Links<br>
+2. Shocker Interface<br> 2.1 VR Interface<br> 2.2 Sharelinks and codes<br>&nbsp;&nbsp;&nbsp;&nbsp;2.2.1. Share Codes<br>&nbsp;&nbsp;&nbsp;&nbsp;2.2.2. Share Links<br>2.3. Using Sharelinks and codes<br>&nbsp;&nbsp;&nbsp;&nbsp;2.3.1. Share Codes<br>&nbsp;&nbsp;&nbsp;&nbsp;2.3.2. Share Links
 3. Tips<br> 3.1 Portable Operation
 ---
 
@@ -117,7 +117,19 @@ Share links are used to grant a single Person or a group temporary access to the
 | 9   | No Expiration        | Enable to Prevent the Link from Expiring at the time set below                     |
 | 10  | Expiration Time      | Input to set the Expiration time of the Link (local time)                          |
 
+---
+### 2.3. Using Sharelinks and codes
+### 2.3.1. Using Share Codes
+#### **Adding a Share Code**
+Please follow the steps below to add a share code to your Account.<br>
+1: Click on "Shared"<br>
+![PiShock Shocker](https://i.imgur.com/vVU8KoV.png)
 
+2: Click on the Plus Button in the bottom right corner of the Page<br>
+![PiShock Shocker](https://i.imgur.com/aCfn4eC.png)
+
+3: Select "Shocker", Enter the Code in the Field labled "Enter Share Code", Click "OK"<br>
+![PiShock Shocker](https://i.imgur.com/4i1AOMo.png)
 ## 3. Tips
 ### 3.1. Portable Operation
 Using the PiShock while moving around in a space such as a Convention Floor requires nothing more then a Hotspot connection as well as a External powersource. 
