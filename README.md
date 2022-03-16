@@ -180,4 +180,3 @@ It is alternatively also possible to Power the PiShock via it's GPIO Pins using 
 #### **Network**
 To Recive Commands from the Server the PiShock requires an active internet connection.<br>
 This can be achived by using a hotspot from a Mobile phone (Note: it is advised to set this up before leaving for the Event to avoid issues with the PiShock loosing connection). 
-v
