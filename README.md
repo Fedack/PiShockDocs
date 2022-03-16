@@ -159,6 +159,16 @@ Please follow the steps below to add a share code to your Account.<br>
 Once added, a Shocker accessed via Share Code can be controlled like your own Shocker.<br>
 With the Exception that the Shockers Owner can Pause and or Revoke access at any time.<br>**Please consult the Safety Instructions at the beginning of this document before play.**
 
+### 2.3.2. Using Share Links
+Please follow the steps below to use a Share link<br>
+**1:** Open the Share link in your Browser<br>
+**2:** Enter a desired Username (This can be anything and does not need to match the name of your PiShock Account), Confirm by Clicking "CONFIRM"
+![PiShock Shocker](https://i.imgur.com/JOIomdj.png)
+#### **Usage**
+![PiShock Shocker](https://i.imgur.com/E2mOzIo.png)
+Once added, a Shocker accessed via a Share Link can be controlled like your own Shocker. If the Share link has a Timelimit, it will automatically Expire once the set time has Elapsed.
+
+
 ## 3. Tips
 ### 3.1. Portable Operation
 Using the PiShock while moving around in a space such as a Convention Floor requires nothing more then a Hotspot connection as well as a External powersource. 
@@ -170,3 +180,4 @@ It is alternatively also possible to Power the PiShock via it's GPIO Pins using 
 #### **Network**
 To Recive Commands from the Server the PiShock requires an active internet connection.<br>
 This can be achived by using a hotspot from a Mobile phone (Note: it is advised to set this up before leaving for the Event to avoid issues with the PiShock loosing connection). 
+v
