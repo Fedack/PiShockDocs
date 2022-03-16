@@ -2,15 +2,31 @@
 If you have issues or questions not answered within this document, please join our [Discord-Community](https://discord.gg/MrNb9CQyYA).<br>
 Please use the Table of contents below to navigate this document.
 ##  Table of Contents
-1. General Interface
+1. General Interface<br> 1.1 Advanced Settings
 2. Shocker Interface<br> 2.1 VR Interface<br> 2.2 Sharelinks and codes<br>&nbsp;&nbsp;&nbsp;&nbsp;2.2.1 Share Codes<br>&nbsp;&nbsp;&nbsp;&nbsp;2.2.1 Share Links<br>
 3. Tips<br> 3.1 Portable Operation
 ---
 
 ## 1. General Interface
+![PiShock Shocker](https://i.imgur.com/YDxdDBI.png)
+| Nr. | Name                   | Description                                                                                                        |
+|-----|------------------------|--------------------------------------------------------------------------------------------------------------------|
+| 1   | User Section           | This Page; Displays your shockers and BP.io devices                                                            |
+| 2   | Pairing Section        | Allows you to Pair new PiShock Devices                                                                             |
+| 3   | Share code Section     | Displays your added Share codes                                                                                    |
+| 4   | Account Settings       | Allows you to regenerate your API Key as well change Account settings such as E-Mail Address, Username, and Password |
+| 5   | Username               | Displays your Username                                                                                             |
+| 6   | PiShock Status         | Displays the Status of your PiShock                                                                                |
+| 7   | Advanced Settings      | Click to open the advanced settings dropdown                                                                       |
+| 8   | Toggle Tooltips Button | Click to toggle control tooltips on and off                                                                        |
+| 9   | Theme Settings Button  | Click to change Theme Colors                                                                                       |
+| 10  | Menu Button            | Opens the Menu Dropdown                                                                                            |
+| 11  | Shocker Interface      | Shocker control interface (further explained below)                                                                |
+
+### 1.1 Advanced Settings
 
 ---
-## 2. Shocker Interace
+## 2. Shocker Interface
 ![PiShock Shocker](https://i.imgur.com/S7FCl2B.png)
 | Nr. | Name                 | Description                                                                                                                                                                                                                        |
 |-----|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -27,7 +43,7 @@ Please use the Table of contents below to navigate this document.
 | 11  | Share Button         | Used to bring up the Interface for Generating/Managing Share links and codes                                                                                                                                                       |
 | 12  | Shocker Name         | The Name of the Shocker that gets displayed in Peoples lists, Click to change the name                                                                                                                                            |                                                                                                                                    |
 ---
-### 2.1 VR Interface
+### 2.1. VR Interface
 ![PiShock Shocker](https://i.imgur.com/9VUlDMZ.png)
 | Nr. | Name                | Description                                                                                     |
 |-----|---------------------|-------------------------------------------------------------------------------------------------|
@@ -37,7 +53,7 @@ Please use the Table of contents below to navigate this document.
 | 4   | Vibrate Button      | Press to trigger a Vibration, Hold to trigger a continuous vibration till you release the button |
 | 5   | Safety              | Press to Engage/Disengage the Safety, Prevents both Shocks and Vibrations                       |
 ---
-### 2.2 Sharelinks and codes
+### 2.2. Sharelinks and codes
 Share Codes are used to grant a single User persistent access to the shocker or for API applications, To Create a new Share Code press "New Share Code".<br>
 Share links are used to grant a single Person or a group temporary access to the shocker.
 ![PiShock Shocker](https://i.imgur.com/M0yU0Vr.png)
@@ -47,7 +63,7 @@ Share links are used to grant a single Person or a group temporary access to the
 | 2   | Share Link | Click to Create a new Share Link   |
 
 ---
-### 2.2.1 Share Codes
+### 2.2.1. Share Codes
 
 ![PiShock Shocker](https://i.imgur.com/2lkay6k.png)
 | Nr. | Name                       | Description                                                                                                                                             |
@@ -66,7 +82,7 @@ Share links are used to grant a single Person or a group temporary access to the
 | 3   | Max Intensity | The Maximum intensity of an Action the User of that code can trigger                                                     |
 
 ---
-### 2.2.2 Share Links
+### 2.2.2. Share Links
 ![PiShock Shocker](https://i.imgur.com/DlSHevT.png)
 | Nr. | Name                    | Description                                           |
 |-----|-------------------------|-------------------------------------------------------|
@@ -82,7 +98,7 @@ Share links are used to grant a single Person or a group temporary access to the
 |-----|----------------------|------------------------------------------------------------------------------------|
 | 1   | Link Name            | Click to change the name of the Link                                               |
 | 2   | Disable Shock        | Enable to prevent shocks via the link                              |
-| 3   | Force Warning        | Enable to prevent the warning option from being disabled                           |
+| 3   | Force Warning        | Enable to force the warning option to stay enabled                           |
 | 4   | Max Duration Slider  | Slider to change the maximum duration of actions allowed via the link              |
 | 5   | Max Intensity Slider | Slider to change the intensity of actions via the link             |
 | 6   | Allow Once           | Enable to make the Link single-use, allowing only one use before the link expires  |
@@ -93,7 +109,7 @@ Share links are used to grant a single Person or a group temporary access to the
 
 
 ## 3. Tips
-### 3.1 Portable Operation
+### 3.1. Portable Operation
 Using the PiShock while moving around in a space such as a Convention Floor requires nothing more then a Hotspot connection as well as a External powersource. 
 #### **Power** 
 Powering the PiShock is as simply connecting it to a Powersouce that can supply at least `5V/1A` like a Powerbank.
