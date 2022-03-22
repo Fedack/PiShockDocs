@@ -138,7 +138,7 @@ Share links are used to grant a single Person or a group temporary access to the
 | 6   | Allow Once           | Enable to make the Link single-use, allowing only one use before the link expires  |
 | 7   | Give Control         | Disable to limit the link to only Shock, Vibrate, or Beep                           |
 | 8   | One Person           | Disable to allow multiple people to use the link                                   |
-| 9   | No Expiration        | Enable to Prevent the Link from Expiring at the time set below                     |
+| 9   | No Expiration        | Enable to Prevent the Link from Expiring at the time set below, Expriation time must be set if this option is disabled                     |
 | 10  | Expiration Time      | Input to set the Expiration time of the Link (local time)                          |
 
 ---
@@ -162,7 +162,7 @@ With the Exception that the Shockers Owner can Pause and or Revoke access at any
 ### 2.3.2. Using Share Links
 Please follow the steps below to use a Share link<br>
 **1:** Open the Share link in your Browser<br>
-**2:** Enter a desired Username (This can be anything and does not need to match the name of your PiShock Account), Confirm by Clicking "CONFIRM"
+**2:** Enter a desired Username (This can be anything, If you are logged in it will use the name of your PiShock Account instead), Confirm by Clicking "CONFIRM"
 ![PiShock Shocker](https://i.imgur.com/JOIomdj.png)
 #### **Usage**
 ![PiShock Shocker](https://i.imgur.com/E2mOzIo.png)
@@ -178,5 +178,5 @@ Powering the PiShock is as simply connecting it to a Powersouce that can supply 
 It is alternatively also possible to Power the PiShock via it's GPIO Pins using a LiPo (and optionally a battery hat) for an even more portable and compact solution.
 
 #### **Network**
-To Recive Commands from the Server the PiShock requires an active internet connection.<br>
-This can be achived by using a hotspot from a Mobile phone (Note: it is advised to set this up before leaving for the Event to avoid issues with the PiShock loosing connection). 
+To Receive Commands from the Server the PiShock requires an active internet connection.<br>
+This can be achived by using a hotspot from a Mobile phone (Note: it is advised to set this up before leaving for the Event to avoid issues with the PiShock losing connection). 
