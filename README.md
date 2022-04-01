@@ -135,11 +135,11 @@ Share links are used to grant a single Person or a group temporary access to the
 | 3   | Force Warning        | Enable to force the warning option to stay enabled                           |
 | 4   | Max Duration Slider  | Slider to change the maximum duration of actions allowed via the link              |
 | 5   | Max Intensity Slider | Slider to change the intensity of actions via the link             |
-| 6   | Allow Once           | Enable to make the Link single-use, allowing only one use before the link expires  |
-| 7   | Give Control         | Disable to limit the link to only Shock, Vibrate, or Beep                           |
-| 8   | One Person           | Disable to allow multiple people to use the link                                   |
-| 9   | No Expiration        | Enable to Prevent the Link from Expiring at the time set below, Expriation time must be set if this option is disabled                     |
-| 10  | Expiration Time      | Input to set the Expiration time of the Link (local time)                          |
+| 6   | Allow Once           | Enable to make the Link a one time action, this does not give control but just perform this action.  |
+| 7   | Give Control         | Enable to allow remote like control instead of single actions. Can't be used with Allow Once. |
+| 8   | One Person           | Disable to allow multiple people to use the link. If enabled, only the first browser using the link will be allowed. |
+| 9   | No Expiration        | Enable to Prevent the Link from Expiring at the time set below, Expriation time must be set if this option is disabled. |
+| 10  | Expiration Time      | Input to set the Expiration time of the Link (local time). This must be set if Allow Once or No Expiration isn't enabled. |
 
 ---
 ### 2.3. Using Sharelinks and codes
