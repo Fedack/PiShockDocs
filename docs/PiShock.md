@@ -59,6 +59,7 @@ Please use the Table of contents below to navigate this document.
 | 6   | Transfer Button            | Click to Unbind the PiShock from your Account and allow Ownership transfer to another User. **WARNING: This is only Intended for Transfering Ownership of the PiShock (eg. when selling it) *NOT* for giving another user control, to give another user control, see share links/codes described further below** |
 | 7   | Get Shockers Button        | Allows you to easily purchase another Shocker / Shocker License                                                                                                                                                                                                                                                 |
 | 8   | PiShock ID                 | Your PiShock ID; Required for Certain API Applications as well as Troubleshooting                                                                                                                                                                                                                                 |
+
 *Please note that the options for Network, Websocket, Reboot and Shutdown are only available on the PiShock Plus, not the Standard, and only shown when the device is powered on and connected.*
 ---
 ## 2. Shocker Interface
