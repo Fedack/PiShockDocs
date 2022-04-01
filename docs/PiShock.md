@@ -180,3 +180,11 @@ It is alternatively also possible to Power the PiShock via it's GPIO Pins using 
 #### **Network**
 To Receive Commands from the Server the PiShock requires an active internet connection.<br>
 This can be achived by using a hotspot from a Mobile phone (Note: it is advised to set this up before leaving for the Event to avoid issues with the PiShock losing connection). 
+
+### 3.2 **Pair Shocker**
+Sometimes if you see that your shocker doesn't work, it can mean it is unpaired. Do the below<br>
+**1:** Turn on the shocker, it will beep when you press on and the light will start flashing on the side, this means it is on.
+**2:** Press and hold the button for 5 seconds, it will beep again and the light will start to flash rapidly.
+**3:** Send a vibrate from the website. You have a few seconds to do that. If it vibrate, it means it is paired.
+
+This process is the same for switching between the offline remote and the PiShock.
