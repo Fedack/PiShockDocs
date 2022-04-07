@@ -15,7 +15,7 @@ Some of Community Favorite Spots to place the shocker Include:
 Feel free to Experiment and to Share your Experiences with the Community.
 
 #### **S.S.A.C** (**S**afe **S**ane **A**nd **C**onsentual)
-Please keep in mind that this is an Adult Toy whith the purpos of Inflicting pain on your Partner.<br>
+Please keep in mind that this is an Adult Toy whith the purpose of Inflicting pain on your Partner.<br>
 Make sure to discuss your and your partner's Limits before engaging in play.<br>
 Be aware that Certain Conditions (eg. Alcohol Intoxication) Can not only Limit your Partner's ability to consent but also affect their Pain Perception.<br>
 
