@@ -6,6 +6,7 @@ Please use the Table of contents below to navigate this document.
 ##  Table of Contents
 1. General Interface
     <br>1.1. Advanced Settings
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;1.1.1 Limits
     <br>1.2. Hygiene Opening Settings
     <br>1.3. Unlock Settings
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1.3.1 Timed Unlock
@@ -46,8 +47,20 @@ Please use the Table of contents below to navigate this document.
 | 2   | Wifi Settings Button    | Click to change the Wifi Settings                                                |
 | 3   | Transfer Button         | Click to Unbind the PiVault from your Account and allow Ownership transfer to another User. **WARNING: This is only Intended for Transfering Ownership of the PiVault (eg. when selling it) *NOT* for giving another user control, to give another user control, see Keyholder codes / Public Links described further below**                                                              |
 | 4   | Limits Button           | Click to Access the Limits Settings                                              |
-| 5   | Emergency Unlock Toggle | Click to toggle between enabling and disabling the Emergency Unlock Function     |
+| 5   | Emergency Unlock Toggle | Click to toggle between enabling and disabling the Emergency Unlock Function (Not visible if there are Keyholders and Emergency Unlock has been disabled) |
 | 6   | PiVault ID              | Your PiVault ID; Required for Certain API Applications as well as Troubleshooting |
+
+#### **1.3.1** Limits
+![PiVaultLimits](https://i.imgur.com/aWobraz.png)<br>
+| Nr. | Name                              | Description                                                         |
+|-----|-----------------------------------|---------------------------------------------------------------------|
+| 1   | Chastity Session Maximum Duration | Click to set the Maximum duration for a Session flagged as Chastity |
+| 2   | Bondage Session Maximum Duration  | Click to set the Maximum duration for a Session flagged as Bondage  |
+| 3   | Unlocked By Default Toggle        | Toggle if the PiVault is unlocked by Default (Default off)          |
+| 4   | Close Button                      | Click to close the Limits Dialog                                    |
+| 5   | Confirm Button                    | Click to Confirm the settings to the Limit Settings                 |
+
+
 ---
 ### 1.2. Hygiene Opening Settings
 ![PiVaultHygieneOpeningSettings](https://i.imgur.com/5tVaWjx.png)
