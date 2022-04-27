@@ -140,7 +140,7 @@ While in No Keyholder Mode:
 | 5   | Link Settings Button  | Click to change the Links Settings |
 | 6   | Delete Link Button    | Click to Delete the Public Link    |
 
-**Note: Links will persist between session! Make sure you manage them or you might find yourself with happy surprises on your count ~**
+**Note: Links will persist between session! Make sure you manage them or you might find yourself with happy surprises on your count** ~
 
 #### **1.5.1** Create / Modify Public Links
 ![PiVaultCreatePublicLinks](https://i.imgur.com/ZV8g2Rx.png)
