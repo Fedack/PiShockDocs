@@ -153,3 +153,13 @@ While in No Keyholder Mode:
 ---
 ### 1.6. API Keys
 *Comming Soon, Feature in development*
+
+---
+### 1.7. Keyholder Codes
+![PiVaultCreatePublicLinks](https://i.imgur.com/farHKHc.png)
+| Nr. | Name                             | Description                                                                                         |
+|-----|----------------------------------|-----------------------------------------------------------------------------------------------------|
+| 1   | Keyholder Code                   | Existing Keyholder Code, with the Keyholders Name                                                   |
+| 2   | Delete Keyholder Code Button     | Click to Delete the Keyholder Code and Revoke the Keyholders Access                                 |
+| 3   | Close Button                     | Click to Close the Keyholder Code Dialog                                                            |
+| 4   | Create a new Keyholder Code Button | Click to Create a new Keyholder Code, this will Generate a new Code you can share with your Partner |
