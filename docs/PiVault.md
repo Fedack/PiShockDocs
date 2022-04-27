@@ -69,7 +69,7 @@ Please use the Table of contents below to navigate this document.
 
 ![PiVaultUnlockTimed](https://i.imgur.com/LFpDSU7.png)
 
-Timed unlock allows you to specify a Time window up to 60 Minutes in the future at which the PiVault will allow unlocking for 3 seconds by pressing the button on the device.
+Timed unlock allows you to specify a Time window up to 60 **Seconds** in the future at which the PiVault will allow unlocking for 3 seconds by pressing the button on the device.
 
 | Nr. | Name              | Description                                                                                                             |
 |-----|-------------------|-------------------------------------------------------------------------------------------------------------------------|
