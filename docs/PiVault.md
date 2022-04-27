@@ -11,6 +11,11 @@ Please use the Table of contents below to navigate this document.
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1.3.1 Timed Unlock
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1.3.1 Unlock Now
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1.3.1 Allow Unlock
+    <br>1.4. Time Settings & Starting a Session
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;1.4.1 No Keyholder Mode
+    <br>1.5. Public Links
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;1.5.1 Create / Modify Public Links
+    <br>1.6. API Keys
 ---
 ## 1. General Interface
 ![PiVaultMainScreen](https://i.imgur.com/YevmxH0.png)
@@ -72,7 +77,7 @@ Timed unlock allows you to specify a Time window up to 60 Minutes in the future 
 | 4   | Cancel Button     | Click to Cancel the Unlock                                                                                              |
 | 5   | Confirm Button     | Click to Confirm the configuration and to start the timer.                                                                              |
 
-#### **1.3.1** Unlock Now
+#### **1.3.2** Unlock Now
 
 ![PiVaultUnlockNow](https://i.imgur.com/nNZk3cW.png)
 
@@ -84,7 +89,7 @@ Timed unlock allows you to specify a Time window up to 60 Minutes in the future 
 | 3   | Cancel Button     | Click to Cancel the Unlock                                                                                              |
 | 4   | Confirm Button     | Click to Confirm the configuration and to Unlock                                                                              |
 
-#### **1.3.1** Allow Unlock
+#### **1.3.3** Allow Unlock
 
 The "Allow Unlock" function allows the PiVault to be unlocked once at any point once it has been enabled. <br>
 Using this allows Keyholder to give the sub the option to unlock themselfs at what ever time they choose. 
@@ -97,3 +102,54 @@ Using this allows Keyholder to give the sub the option to unlock themselfs at wh
 | 2   | No Reset          | Click to Enable Preserving the session. Unlocking with this option checked will Preserve the currently running session. |                                         |
 | 3   | Cancel Button     | Click to Cancel the Unlock                                                                                              |
 | 4   | Confirm Button     | Click to Confirm the configuration and to Unlock      
+
+---
+### 1.4. Time Settings & Starting a Session
+
+![PiVaultSessionSettings](https://i.imgur.com/Gp6yUQb.png)
+| Nr. | Name               | Description                                                                                                                                                             |
+|-----|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Date / Time Picker | Select the Date the Lockbox will unlock at, then select the time it will Unlock at (Note: After Selecting the Date, the Date Picker gets replaced with the Time Picker) |
+| 2   | No Keyholder Mode  | Click to Enable "No Keyholder Mode"                                                                                                                                     |
+| 3   | Cancel Button      | Cancel Setting the Duration                                                                                                                                             |
+| 4   | Confirm Button     | Confirm Setting the Duration      
+
+#### **1.4.1** No Keyholder Mode
+No Keyholder mode locks down the PiVault in such a way to allow for a Solo Session. <br>
+While in No Keyholder Mode:
+- You will not be able to add keyholders
+- You will not be able to create new public links with the option to subtract time enabled
+- You will not be able to unlock the PiVault until the set time has elapsed (Emergency / Hygiene Unlock will function regardless, Note that Hygiene Unlocks have to be set up before Session start)
+- You will not be able to set/alter Hygiene unlock settings
+
+---
+### 1.5. Public Links
+![PiVaultPublicLinks](https://i.imgur.com/B3CrcMz.png)
+| Nr. | Name                  | Description                        |
+|-----|-----------------------|------------------------------------|
+| 1   | Close Button          | Close the Public Link dialog       |
+| 2   | Create Button         | Click to Create a new Public Link  |
+| 3   | Public Link           | Existing Public link               |
+| 4   | Copy Link Button      | Click to copy the Public Link URL  |
+| 5   | Link Settings Button  | Click to change the Links Settings |
+| 6   | Delete Link Button    | Click to Delete the Public Link    |
+
+#### **1.5.1** Create / Modify Public Links
+![PiVaultCreatePublicLinks](https://i.imgur.com/ZV8g2Rx.png)
+| Nr. | Name                         | Description                                                                                                                             | Default  |
+|-----|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------|
+| 1   | Link Name                    | Click to change the Name of the Public Link                                                                                             | --       |
+| 2   | Link Enable Toggle           | Click to enable / disable the link                                                                                                   | On       |
+| 3   | Enable Vote Toggle           | Enables Voting options for the link (Note: If this is false, the link can only be used to see the current status as well as the logs)   | Off      |
+| 4   | Require Login Toggle         | If true, only users with an Account can vote on the Link **Note: This can currently not be disabled, this might change in the future**  | On       |
+| 5   | Cool Down Duration Select    | Click to change the Cooldown Duration until a user can vote again                                                                       | --       |
+| 6   | Link Mode Select             | Click to change between Chastity or Bondage Mode, this influences the Max time setting below (Chastity: Max 7 days, Bondage: Max 1 Hour) | Chastity |
+| 7   | Allow Reduction Toggle       | Enables Time Reduction via the link, if this is disabled you can only add time.                                                         | Off      |
+| 8   | Max Time select              | Click to change the Maximum Voting Increment                                                                                            | --       |
+| 9   | Link Expiration Date / Time  | Click to change the Links Expiration Date / Time                                                                                        | --       |
+| 10  | Clear Expiration Date / Time | Click to reset the Links Expiration Date / Time, Links without an Expiration Date will not Expire automatically                          | --       |
+| 11  | Cancel Button                | Click to cancel creating / modifying the Public Link                                                                                    | --       |
+| 12  | Save Button                  | Click to Save the changes to / create the Public Link                                                                                   | --       |
+---
+### 1.6. API Keys
+*Comming Soon, Feature in development*
