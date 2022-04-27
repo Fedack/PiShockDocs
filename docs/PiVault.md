@@ -91,6 +91,8 @@ Timed unlock allows you to specify a Time window up to 60 **Seconds** in the fut
 | 3   | Cancel Button     | Click to Cancel the Unlock                                                                                              |
 | 4   | Confirm Button     | Click to Confirm the configuration and to Unlock                                                                              |
 
+Unlock Now will unlock the PiVault as soon as it polls. It will stay unlocked for up to 15 seconds or until it is opened.
+
 #### **1.3.3** Allow Unlock
 
 The "Allow Unlock" function allows the PiVault to be unlocked once at any point once it has been enabled. <br>
