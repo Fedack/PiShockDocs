@@ -16,6 +16,7 @@ Please use the Table of contents below to navigate this document.
     <br>1.5. Public Links
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1.5.1 Create / Modify Public Links
     <br>1.6. API Keys
+    <br>1.7. Keyholder Codes
 ---
 ## 1. General Interface
 ![PiVaultMainScreen](https://i.imgur.com/YevmxH0.png)
