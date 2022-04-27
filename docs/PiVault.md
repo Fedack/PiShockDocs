@@ -171,3 +171,18 @@ While in No Keyholder Mode:
 | 2   | Delete Keyholder Code Button     | Click to Delete the Keyholder Code and Revoke the Keyholders Access                                 |
 | 3   | Close Button                     | Click to Close the Keyholder Code Dialog                                                            |
 | 4   | Create a new Keyholder Code Button | Click to Create a new Keyholder Code, this will Generate a new Code you can share with your Partner |
+
+Generating a Keyholder code will prevent you from doing the following:
+- You can no longer create Links with Reduction.
+- You can no longer adjust Hygiene.
+- You can no longer unlock the box yourself except through Emergency Unlock
+- You can no longer start a session.
+- You can no longer enable or disable Emergency Unlock
+
+Keyholders can:
+- Create Links
+- Adjust Hygiene Settings
+- Delete Links
+- See your logs
+- Unlock
+- Start a session
