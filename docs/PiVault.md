@@ -60,6 +60,7 @@ Please use the Table of contents below to navigate this document.
 | 4   | Close Button                      | Click to close the Limits Dialog                                    |
 | 5   | Confirm Button                    | Click to Confirm the settings to the Limit Settings                 |
 
+**Note: Normally Unlocked can only be changed when no keyholder is present. Limits can only be changed when no session is active.**
 
 ---
 ### 1.2. Hygiene Opening Settings
