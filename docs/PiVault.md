@@ -96,7 +96,7 @@ Unlock Now will unlock the PiVault as soon as it polls. It will stay unlocked fo
 #### **1.3.3** Allow Unlock
 
 The "Allow Unlock" function allows the PiVault to be unlocked once at any point once it has been enabled. <br>
-Using this allows Keyholder to give the sub the option to unlock themselfs at what ever time they choose. 
+Using this allows Keyholder to give the sub the option to unlock Themselves at what ever time they choose. 
 
 ![PiVaultUnlockAllow](https://i.imgur.com/TC7DkN6.png)
 
@@ -106,6 +106,8 @@ Using this allows Keyholder to give the sub the option to unlock themselfs at wh
 | 2   | No Reset          | Click to Enable Preserving the session. Unlocking with this option checked will Preserve the currently running session. |                                         |
 | 3   | Cancel Button     | Click to Cancel the Unlock                                                                                              |
 | 4   | Confirm Button     | Click to Confirm the configuration and to Unlock      
+
+**Note: It is currently possible that a server restart wipes the unlock allowance. This will be changed in the future but currently allow unlock will not work beyond 6 hours at the maximum.**
 
 ---
 ### 1.4. Time Settings & Starting a Session
