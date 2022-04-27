@@ -22,27 +22,27 @@ Please use the Table of contents below to navigate this document.
 ![PiVaultMainScreen](https://i.imgur.com/YevmxH0.png)
 | Nr. | Name                         | Description                                                            |
 |-----|------------------------------|------------------------------------------------------------------------|
-| 1   | Add Button                   | Click to add a Lockbox / add a keyholder code                          |
-| 2   | Own Lockbox Button           | Click to View the interface for your Lockbox                       |
-| 3   | Shared Lockboxes             | Lockboxes you have a share code for will be listed below               |
+| 1   | Add Button                   | Click to add a PiVault / add a keyholder code                          |
+| 2   | Own PiVault Button           | Click to View the interface for your PiVault                       |
+| 3   | Shared PiVaults             | PiVaults you have a share code for will be listed below               |
 | 4   | Hygiene Button               | Click to Access the Settings for Hygiene Opening                       |
 | 5   | Unlock Button                | Click to Access the Unlock Options                                     |
 | 6   | Time Control Button          | Click to Access the Time configuration                                 |
-| 7   | "Locked Since" Timer         | Displays how Long the Lockbox has been locked                          |
-| 8   | "Unlocks at" Timer           | Displays the date and time the Lockbox will unlock at                  |
-| 9   | "Time Left" Timer            | Displays the time till the Lockbox will unlock                         |
-| 10  | Last Opened                  | Displays the time since the Lockbox was last Opened                    |
-| 11  | Last Closed                  | Displays the time since the Lockbox was last Closed                   |
+| 7   | "Locked Since" Timer         | Displays how Long the PiVault has been locked                          |
+| 8   | "Unlocks at" Timer           | Displays the date and time the PiVault will unlock at                  |
+| 9   | "Time Left" Timer            | Displays the time till the PiVault will unlock                         |
+| 10  | Last Opened                  | Displays the time since the PiVault was last Opened                    |
+| 11  | Last Closed                  | Displays the time since the PiVault was last Closed                   |
 | 12  | "Public Links" Button        | Click to Access the Public Link Interface                              |
 | 13  | "Keyholder" Button           | Click to Access the Keyholder Settings                                 |
-| 14  | "Additional Settings" Button | Click to Access the Additional Settings for the Lockbox                 |
-| 15  | Lockbox Log                  | Lists all events reported by the lockbox (Open, Close, Emergency, etc) |
+| 14  | "Additional Settings" Button | Click to Access the Additional Settings for the PiVault                 |
+| 15  | PiVault Log                  | Lists all events reported by the PiVault (Open, Close, Emergency, etc) |
 ---
 ### 1.1 Advanced Settings
 ![PiVaultAdvancedSettings](https://i.imgur.com/VbA4k4w.png)
 | Nr. | Name                    | Description                                                                      |
 |-----|-------------------------|----------------------------------------------------------------------------------|
-| 1   | Rename Button           | Click to change the Name of the Lockbox                                          |
+| 1   | Rename Button           | Click to change the Name of the PiVault                                          |
 | 2   | Wifi Settings Button    | Click to change the Wifi Settings                                                |
 | 3   | Transfer Button         | Click to Unbind the PiVault from your Account and allow Ownership transfer to another User. **WARNING: This is only Intended for Transfering Ownership of the PiVault (eg. when selling it) *NOT* for giving another user control, to give another user control, see Keyholder codes / Public Links described further below**                                                              |
 | 4   | Limits Button           | Click to Access the Limits Settings                                              |
@@ -110,7 +110,7 @@ Using this allows Keyholder to give the sub the option to unlock themselfs at wh
 ![PiVaultSessionSettings](https://i.imgur.com/Gp6yUQb.png)
 | Nr. | Name               | Description                                                                                                                                                             |
 |-----|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | Date / Time Picker | Select the Date the Lockbox will unlock at, then select the time it will Unlock at (Note: After Selecting the Date, the Date Picker gets replaced with the Time Picker) |
+| 1   | Date / Time Picker | Select the Date the PiVault will unlock at, then select the time it will Unlock at (Note: After Selecting the Date, the Date Picker gets replaced with the Time Picker) |
 | 2   | No Keyholder Mode  | Click to Enable "No Keyholder Mode"                                                                                                                                     |
 | 3   | Cancel Button      | Cancel Setting the Duration                                                                                                                                             |
 | 4   | Confirm Button     | Confirm Setting the Duration      
