@@ -61,6 +61,7 @@ Please use the Table of contents below to navigate this document.
 | 6   | Set Button                            | Click to confirm the changes to the Hygiene Opening Configuration |
 
 **Please note that this configuration is based on the local Timezone of the PiVault**
+**Note that during the Hygiene Window, the PiVault can be opened at any time, for any number of times. It is recommended to make the window as small as possible.**
 
 ---
 ### 1.3. Unlock Options
