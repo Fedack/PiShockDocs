@@ -60,7 +60,7 @@ Please use the Table of contents below to navigate this document.
 | 4   | Close Button                      | Click to close the Limits Dialog                                    |
 | 5   | Confirm Button                    | Click to Confirm the settings to the Limit Settings                 |
 
-**Note: Normally Unlocked can only be changed when no keyholder is present. Limits can only be changed when no session is active.**
+**Note: "Unlocked By Default" can only be changed when no keyholder is present. Limits can only be changed when no session is active.**
 
 ---
 ### 1.2. Hygiene Opening Settings
@@ -74,7 +74,7 @@ Please use the Table of contents below to navigate this document.
 | 5   | Cancel Button                         | Click to cancel the changes to the Hygiene Opening Configuration  |
 | 6   | Set Button                            | Click to confirm the changes to the Hygiene Opening Configuration |
 
-**Please note that this configuration is based on the local Timezone of the PiVault**
+**Please note that this configuration is based on the local Timezone of the PiVault**<br>
 **Note that during the Hygiene Window, the PiVault can be opened at any time, for any number of times. It is recommended to make the window as small as possible.**
 
 ---
