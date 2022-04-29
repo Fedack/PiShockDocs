@@ -60,7 +60,7 @@ Once unlocked, you just need to twist the PiVault lid counter clockwise and pull
 | 5   | Emergency Unlock Toggle | Click to toggle between enabling and disabling the Emergency Unlock Function (Not visible if there are Keyholders and Emergency Unlock has been disabled) |
 | 6   | PiVault ID              | Your PiVault ID; Required for Certain API Applications as well as Troubleshooting |
 
-#### **1.3.1** Limits
+#### **1.1.1** Limits
 ![PiVaultLimits](https://i.imgur.com/aWobraz.png)<br>
 | Nr. | Name                              | Description                                                         |
 |-----|-----------------------------------|---------------------------------------------------------------------|
