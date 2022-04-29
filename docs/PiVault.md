@@ -26,6 +26,8 @@ Hold for 5 seconds, until the light flash, it will mute or unmute the PiVault.
 Hold for 15 seconds and you will request an emergency unlock (if still enabled).
 
 Once unlocked, you just need to twist the PiVault lid counter clockwise and pull up. To lock, put the lid back on, aligning the notch on the side of the lid with the rightmost dent in the base.
+
+
 ---
 ## 1. General Interface
 ![PiVaultMainScreen](https://i.imgur.com/YevmxH0.png)
