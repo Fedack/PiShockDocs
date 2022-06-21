@@ -32,9 +32,7 @@ For the purposes of this Return and Refund Policy:
 
 # Your Order Cancellation Rights
 
-You are entitled to cancel Your Order within 7 days without giving any reason for doing so.
-
-The deadline for cancelling an Order is 7 days from the date on which You received the Goods or on which a third party you have appointed, who is not the carrier, takes possession of the product delivered.
+You are entitled to cancel Your Order within 7 days without giving any reason for doing so as long as it has not been packaged and marked for shipping.
 
 In order to exercise Your right of cancellation, You must inform Us of your decision by means of a clear statement. You can inform us of your decision by:
 
