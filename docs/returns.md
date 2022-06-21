@@ -32,7 +32,7 @@ For the purposes of this Return and Refund Policy:
 
 # Your Order Cancellation Rights
 
-You are entitled to cancel Your Order within 7 days without giving any reason for doing so as long as it has not been packaged and marked for shipping.
+You are entitled to cancel Your Order within 7 days as long as it has not been packaged and marked for shipping.
 
 In order to exercise Your right of cancellation, You must inform Us of your decision by means of a clear statement. You can inform us of your decision by:
 
@@ -47,23 +47,7 @@ We will reimburse You no later than 14 days from the day on which We receive the
 
 # Conditions for Returns
 
-In order for the Goods to be eligible for a return, please make sure that:
-
-- The Goods were purchased in the last 7 days
-- The Goods are in the original packaging
-- The Goods were not used or damaged
-
-
-The following Goods cannot be returned:
-
-- The supply of Goods made to Your specifications or clearly personalized.
-- The supply of Goods which according to their nature are not suitable to be returned, deteriorate rapidly or where the date of expiry is over.
-- The supply of Goods which are not suitable for return due to health protection or hygiene reasons and were unsealed after delivery.
-- The supply of Goods which are, after delivery, according to their nature, inseparably mixed with other items.
-
-We reserve the right to refuse returns of any merchandise that does not meet the above return conditions in our sole discretion.
-
-
+Due to the nature of the Goods, we do not accept returns.
 
 # Returning Goods
 
