@@ -44,7 +44,7 @@ This gets the current status of the lockbox.
 | lockedSince      | DateTime       | Time that a lock session has begun.                                                                                      |
 | lockedUntil      | DateTime       | Current end time of a lock session.                                                                                      |
 | canUnlock        | Boolean        | Indicates if the lockbox will currently permit opening with the button on the back.                                      |
-| hygieneSettings  | Array          | Provides information about hygiene openings, including frequency, time, and days permitted.                              |
+| hygieneSettings  | Object         | Provides information about hygiene openings, including frequency, time, and days permitted.                              |
 | lastOpened       | DateTime       | The date and time the lockbox was last opened.                                                                           |
 | lastClosed       | DateTime       | the date and time the lockbox was last closed.                                                                           |
 
