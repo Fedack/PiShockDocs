@@ -31,24 +31,26 @@ Once unlocked, you just need to twist the PiVault lid counter clockwise and pull
 
 ---
 ## 1. General Interface
-![PiVaultMainScreen](https://i.imgur.com/YevmxH0.png)
+![PiVaultMainScreen](https://i.imgur.com/1cMOCUC.png)
 | Nr. | Name                         | Description                                                            |
 |-----|------------------------------|------------------------------------------------------------------------|
 | 1   | Add Button                   | Click to add a PiVault / add a keyholder code                          |
-| 2   | Own PiVault Button           | Click to View the interface for your PiVault                       |
-| 3   | Shared PiVaults             | PiVaults you have a share code for will be listed below               |
+| 2   | Own PiVault Button           | Click to View the interface for your PiVault                           |
+| 3   | Shared PiVaults              | PiVaults you have a share code for will be listed below                |
 | 4   | Hygiene Button               | Click to Access the Settings for Hygiene Opening                       |
 | 5   | Unlock Button                | Click to Access the Unlock Options                                     |
 | 6   | Time Control Button          | Click to Access the Time configuration                                 |
-| 7   | "Locked Since" Timer         | Displays how Long the PiVault has been locked                          |
-| 8   | "Unlocks at" Timer           | Displays the date and time the PiVault will unlock at                  |
-| 9   | "Time Left" Timer            | Displays the time till the PiVault will unlock                         |
-| 10  | Last Opened                  | Displays the time since the PiVault was last Opened                    |
-| 11  | Last Closed                  | Displays the time since the PiVault was last Closed                   |
-| 12  | "Public Links" Button        | Click to Access the Public Link Interface                              |
-| 13  | "Keyholder" Button           | Click to Access the Keyholder Settings                                 |
-| 14  | "Additional Settings" Button | Click to Access the Additional Settings for the PiVault                 |
-| 15  | PiVault Log                  | Lists all events reported by the PiVault (Open, Close, Emergency, etc) |
+| 7   | Clear Button                 | Click to immediately end the current session                           |
+| 8   | "Locked Since" Timer         | Displays how Long the PiVault has been locked                          |
+| 9   | "Unlock at" Timer            | Displays the date and time the PiVault will unlock at                  |
+| 10  | "Time Left" Timer            | Displays the time till the PiVault will unlock                         |
+| 11  | Last Opened                  | Displays the time since the PiVault was last Opened                    |
+| 12  | Last Closed                  | Displays the time since the PiVault was last Closed                    |
+| 13  | "Public Links" Button        | Click to Access the Public Link Interface                              |
+| 14  | "API Codes" Button           | Click to Access the API Codes Interface                                |
+| 15  | "Keyholder" Button           | Click to Access the Keyholder Settings                                 |
+| 16  | "Additional Settings" Button | Click to Access the Additional Settings for the PiVault                |
+| 17  | PiVault Log                  | Lists all events reported by the PiVault (Open, Close, Emergency, etc) |
 ---
 ### 1.1 Advanced Settings
 ![PiVaultAdvancedSettings](https://i.imgur.com/VbA4k4w.png)
