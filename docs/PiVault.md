@@ -14,6 +14,7 @@ Please use the Table of contents below to navigate this document.
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1.3.1 Allow Unlock
     <br>1.4. Time Settings & Starting a Session
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1.4.1 No Keyholder Mode
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;1.4.2 Hidden Timer
     <br>1.5. Public Links
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1.5.1 Create / Modify Public Links
     <br>1.6. API Keys
@@ -136,13 +137,14 @@ Using this allows Keyholder to give the sub the option to unlock Themselves at w
 ---
 ### 1.4. Time Settings & Starting a Session
 
-![PiVaultSessionSettings](https://i.imgur.com/Gp6yUQb.png)
+![PiVaultSessionSettings](https://i.imgur.com/4ATbuk4.png)
 | Nr. | Name               | Description                                                                                                                                                             |
 |-----|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1   | Date / Time Picker | Select the Date the PiVault will unlock at, then select the time it will Unlock at (Note: After Selecting the Date, the Date Picker gets replaced with the Time Picker) |
 | 2   | No Keyholder Mode  | Click to Enable "No Keyholder Mode"                                                                                                                                     |
-| 3   | Cancel Button      | Cancel Setting the Duration                                                                                                                                             |
-| 4   | Confirm Button     | Confirm Setting the Duration      
+| 3   | Hidden Timer       | Click to Enable "Hidden Timer"                                                                                                                                          |
+| 4   | Cancel Button      | Cancel Setting the Duration                                                                                                                                             |
+| 5   | Confirm Button     | Confirm Setting the Duration                                                                                                                                            |
 
 #### **1.4.1** No Keyholder Mode
 No Keyholder mode locks down the PiVault in such a way to allow for a Solo Session. <br>
@@ -151,6 +153,13 @@ While in No Keyholder Mode:
 - You will not be able to create new public links with the option to subtract time enabled
 - You will not be able to unlock the PiVault until the set time has elapsed (Emergency / Hygiene Unlock will function regardless, Note that Hygiene Unlocks have to be set up before Session start)
 - You will not be able to set/alter Hygiene unlock settings
+
+#### **1.4.2** Hidden Timer
+The "Hidden Timer" can be used to prevent the lockee/wearer from knowing how much time is remaining in a session. This can be enabled with "No Keyholder Mode" and enabled in a session already in progress.
+While Hidden Timer is enabled:
+- The lockee will see "Who Knows" for both the "Unlock At" and "Time Left" values
+- Any time changes will simply show as "added some time" or "removed some time" for the lockee
+- The keyholder(s) will still see the "Unlock At" and "Time Left" values, as well as the values of any time added/removed
 
 ---
 ### 1.5. Public Links
