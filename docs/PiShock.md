@@ -66,7 +66,7 @@ Please use the Table of contents below to navigate this document.
 
 ---
 ## 2. Shocker Interface
-![PiShock Shocker](https://i.imgur.com/S7FCl2B.png)
+![PiShock Shocker](https://i.imgur.com/zjtpXHX.png)
 | Nr. | Name                 | Description                                                                                                                                                                                                                        |
 |-----|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1   | Intensity Slider     | Used to change Intensity of Shocks or Vibrations                                                                                                                                                                                   |
@@ -74,13 +74,17 @@ Please use the Table of contents below to navigate this document.
 | 3   | Shock Button         | Press to trigger the shocker to Shock                                                                                                                                                                                              |
 | 4   | Shock Safety         | Used to prevent triggering Accidental Shocks, Vibrate still works even with the Safety disarmed                                                                                                                                    |
 | 5   | VR Interface Mode    | Used to Switch to the more VR Friendly Interface (Further explanation below)                                                                                                                                                       |
-| 6   | Shocker Pause Button | Used to Pause the Shocker, this disables everything Including Vibration and Beeps. This can be Enabled/Disabled by both the owner of the shocker, But also everyone with a Share Code that has the "Can Pause" Permission checked |
+| 6   | Shocker Pause Button | Used to Pause the Shocker, this disables everything Including Vibration and Beeps. This can be Enabled/Disabled by both the owner of the shocker, But also everyone with a Share Code that has the "Can Pause" Permission checked  |
 | 7   | Beep Button          | Press to trigger the shocker to Beep                                                                                                                                                                                               |
 | 8   | Log Button           | Used to open the Log which lists all triggered actions on the shocker                                                                                                                                                              |
 | 9   | Shocker ID Button    | Press to display the ID of the shocker                                                                                                                                                                                             |
-| 10  | Duration Slider      | Used to change the duration of the Shock, Vibration, or Beep                                                                                                                                                                        |
+| 10  | Duration Slider      | Used to change the duration of the Shock, Vibration, or Beep                                                                                                                                                                       |
 | 11  | Share Button         | Used to bring up the Interface for Generating/Managing Share links and codes                                                                                                                                                       |
-| 12  | Shocker Name         | The Name of the Shocker that gets displayed in Peoples lists, Click to change the name                                                                                                                                            |                                                                                                                                    |
+| 12  | Shocker Name         | The Name of the Shocker that gets displayed in Peoples lists, Click to change the name                                                                                                                                             |
+| 13  | Tiny Shock           | Sends a very short zap that lasts for less than half a second. Please see note below.                                                                                                                                              |
+
+**Tiny Shock:** Devices purchased prior to November 2022 require a firmware update for the Tiny Shock button to work properly. Instructions for updating your firmware can be found on our [Discord Community](https://discord.gg/MrNb9CQyYA) or requested by emailing fedack@pishock.com. If you attempt to use the tiny shock button on a device that is not updated, it will send a 3 second long shock instead. As a matter of safety, this button will not work on share links if the "maximum duration" for a shock is set to less than 3 seconds.
+
 ---
 ### 2.1. VR Interface
 ![PiShock Shocker](https://i.imgur.com/9VUlDMZ.png)
