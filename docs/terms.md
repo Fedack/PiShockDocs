@@ -221,5 +221,66 @@ By continuing to access or use Our Service after those revisions become effectiv
 
 If you have any questions about these Terms and Conditions, You can contact us:
 
+# Schedule 1. Terms and Conditions
+
+1. You are shopping on a merchant’s website (the “Merchant”).
+
+2. If you place a Qualifying Customer Order, the Product(s) that you are purchasing will be sold first by the Merchant to Passport Global Inc (“Passport”), and then by Passport to you under these Terms and Conditions. Your payment information, shipping address, and any additional information required or requested to complete your order will be shared directly with Passport and its nominated agents and contractors, in order to enable Passport to complete your Qualifying Customer Order.
+
+3. Your Qualifying Customer Order is subject to: (1) these Terms and Conditions; and (2) any relevant terms and conditions imposed by the Merchant. By completing your purchase, you confirm that you have read and agree to be bound by all of these. By placing a Qualifying Customer Order on the Merchant’s website, you understand and agree that:
+
+3.1 You are dealing with and providing your information to Passport. Passport may contact you about your order.
+
+3.2 If there is an error in the price listed for a Product on the Merchant’s website, or in the price applied to the product during the sale of and processing of your order for the Product, Passport and its nominated agents are entitled to contact you, correct the price, and/or cancel your order.
+
+3.3 The Merchant remains responsible for handling payment for your order.
+
+3.4 Once your payment is processed, ownership in the items will shift from Passport, to you.
+
+3.5 Certain addresses will be ineligible for shipment, such as PO box addresses.
+
+3.6 Passport may refuse service, refuse to process or complete Qualifying Customer Orders, remove or edit content, or cancel such orders for any reason or for no reason, in its sole discretion.
+
+3.7 If you are under the age of majority in the jurisdiction in which you reside, approval of your parent or guardian is required to complete your purchase.
+
+3.8 You authorise Passport and its nominated agents and contractors to perform any of the following activities in connection with the delivery of any Products: (i) to act as your agent to make and file customs declarations and all related actions as your direct representative, which expressly includes completing any documents, amending product or Harmonised System codes, and paying any duties, taxes or penalties required under applicable laws and regulations; (ii) to act as forwarding agent for customs import and export control purposes solely for the purpose of designating a customs broker to perform customs clearance and entry; and (iii) to redirect an order to your customs broker or other address upon request by any person whom Passport’s nominated agents and contractors believe in its reasonable opinion to be authorised.
+
+4. Currency. You may select your preferred payment method and currency from a list of options available at the time of checkout. Please note that the relative value of currencies may vary, and as a result, the actual purchase price for items in your order may vary based on the currency selected.
+
+5. Billing. If you use a payment card or other electronic form of payment as your payment type, the charges to your account for your order will be subject to the Merchant’s terms and conditions.
+
+6. Shipping. Items in your order may be shipped via a single shipment, or via multiple shipments. If items in your Qualifying Customer Order are shipped via multiple shipments, or if your order is only partially filled and shipped, you will only be charged for those items that are actually shipped to you.
+
+7. Chargebacks, Fraud Prevention and Void Transactions. For your protection, Passport may use various fraud prevention protocols and policies, and industry-standard verification systems, to reduce fraud and minimize chargeback risks. You must comply with such protocols and policies, including card authentication, and “ship to” and “bill to” address verification. Once an order is placed, you may not change any authenticated payment information or any verified “ship to”/“bill to” address. If there is a systemic error which results in the processing or acceptance of a transaction for which authorisation has been declined, that transaction will be void.
+
+8. Customer Service and Returns. Questions or complaints about your order should be directed to the Merchant in the first instance. Passport may work with the Merchant as necessary to resolve your issue. The Merchant is authorised to allow for returns or refunds on orders in accordance with the Merchant’s policy, including to reimburse you for the original sales prices of Products returned to the Merchant’s nominated address. Passport may however refuse any return requested if a restriction applies to the item for which the return is requested. You accept that your sole remedies are against the Merchant. Where a return by the Customer is authorised by Passport or the Merchant, Passport shall also have the right to return the item to Merchant and accordingly the Merchant shall issue a credit note to Passport and Passport shall provide a credit note to the Customer, and Passport’s direction, ownership and risk in the Products for return shall pass directly to the Merchant. Where a return is authorised by Passport or the Merchant, the Merchant shall, at Passport’s direction and acting in its name, provide a credit note to the Customer to the extent of the value of the Product(s) authorised to be returned directly to the Merchant. In relation to any return of Products to the Merchant, you authorise Passport and its nominated agents to act on your behalf, and to recover for its own account, any import duties and taxes. If required, you will sign any such document that is reasonably required to facilitate the return of the Products and the recovery of any import duties and taxes.
+
+9. General Terms. The following general terms apply whenever you place a Qualifying Customer Order through the Merchant’s website:
+
+9.1 Compliance with Applicable Laws. You certify that any Products purchased through a Qualifying Customer Order will not be imported, exported, sold, or transferred in violation of any applicable laws, including without limitation the United States Export Administration Regulations or applicable United States sanctions and embargoes administered by the United States Treasury Department, and equivalent statutes, regulations and codes of England and Wales or the EU. It is your responsibility to know the laws of the country into which you are importing any Products that you order from the Merchant’s website. By placing a Qualifying Customer Order you certify that the import of the Products you have ordered to the country of the shipping address you have provided does not violate any laws or regulations of that country.
+
+9.2 Privacy. To complete your Qualifying Customer Order you will be providing personal information to the Merchant and Passport and you consent to your personal information being collected, used, processed, disclosed and/or stored by the Merchant and Passport and our service providers as may be required in order to process and complete your order and otherwise provide the services you have requested, in accordance with the Merchant’s and Passport’s Privacy Policy. Passport accepts no liability or responsibility for the collection, use, processing, disclosure or storage of your personal information by the Merchant or any service provider engaged by the Merchant. The collection, use, processing, disclosure and/or storage of your personal information by the Merchant or its service providers is governed by the Merchant’s privacy policy. The Merchant and Passport may analyse transactional data for the purpose of identifying trends, statistics and measurements that could contribute to the enhancement of the Merchant’s Customer experience and/or the services provided by Passport. Any transactional data analysed for these purposes will be aggregated and de-identified, meaning that any personally identifiable information will be removed.
+
+9.3 Electronic Communications. When you place a Qualifying Customer Order through the Merchant’s website, you are communicating with Passport electronically, and you consent to entering into this agreement by electronic means, and to receive communications from Passport electronically/via email.
+
+9.4 Modifications. You acknowledge that Passport may make changes to its system, policies, and these Terms and Conditions at any time. Passport will ensure that the current version of these Terms and Conditions is presented every time you make a Qualifying Customer Order on the Merchant’s website. You are responsible for reviewing these Terms and Conditions each time you make a Qualifying Customer Order. If you do not agree to any change in the Terms and Conditions, you must not complete your order. Any order placed after the effective date of a change will constitute your agreement to the change and to the current Terms and Conditions .
+
+9.5 Severability. If any or any portion of these Terms and Conditions is found to be invalid, void, or for any reason unenforceable, that term or portion of terms will be severed, and will not affect the validity and enforceability of the remaining terms.
+
+9.6 Proceedings. Any action or proceeding arising out of or relating to these Terms and Conditions must be brought in the courts of California, United States, and you hereby irrevocably agree to the jurisdiction of the courts of California, United States for all such purposes.
+
+9.7 Language. The parties have agreed and expressly requested that this agreement and all documents related to it be drawn up in English.
+
+9.8 Definitions. “Member State”, “third country” and “third territories” as defined in Article 5 of Council Directive 2006/12/EEC. “Products” means those goods offered for sale via the Merchant’s website which are not of a class or description subject to any duty of excise whether or not those goods are in fact chargeable with that duty, and whether or not that duty has been paid on those goods, or prohibited or restricted goods were they to be imported into the UK, and which are not subject to any restrictions on export, sale, or transfer in violation of any Applicable Laws. “Product Prices” means the prices including VAT at the appropriate rate of the Products as held out for sale to Customer by the Merchant and accordingly, by Passport to Customer; and “Product Price” means the price of an individual Product. “Qualifying Customer Order” meets all of the following conditions:
+
+(A) It is an order for Product or Products placed via the Merchant’s website which are to be transported from:
+
+a third country or territory, excluding Northern Ireland (“NI”), to an address in a Member State of the EU (e.g. USA to France);
+a third country or territory, excluding the UK, or from a Member State of the EU to an address in Great Britain (e.g. Germany to England); or
+a third country or territory, excluding NI, to an address in NI (e.g. USA to NI); and
+(B) In relation to the transport of a Product or Products to an address:
+
+in Great Britain or NI, the total intrinsic value of the Product or Products comprising that order does not exceed £135 (one hundred and thirty five) British Pounds Sterling, or where Products comprising an order exceed that sum but are sent in separate consignments, the intrinsic value of each consignment of which the Product or Products form part does not exceed £135 (one hundred and thirty five) British Pounds Sterling; and
+in a Member State of the EU, the total intrinsic value of the Product or Products comprising that order does not exceed €150 (one hundred and fifty) Euros, or where Products comprising an order exceed that sum but are sent in separate consignments, the intrinsic value of each consignment of which the Product or Products form part does not exceed €150 (one hundred and fifty) Euros.
 
 - By email: fedack@pishock.com
