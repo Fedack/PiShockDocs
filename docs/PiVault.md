@@ -7,6 +7,7 @@ Please use the Table of contents below to navigate this document.
 1. General Interface
     <br>1.1. Advanced Settings
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1.1.1 Limits
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;1.1.2 Emlalock
     <br>1.2. Hygiene Opening Settings
     <br>1.3. Unlock Settings
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1.3.1 Timed Unlock
@@ -53,15 +54,17 @@ Once unlocked, you just need to twist the PiVault lid counter clockwise and pull
 | 17  | PiVault Log                  | Lists all events reported by the PiVault (Open, Close, Emergency, etc) |
 ---
 ### 1.1 Advanced Settings
-![PiVaultAdvancedSettings](https://i.imgur.com/VbA4k4w.png)
+![PiVaultAdvancedSettings](https://i.imgur.com/2yclpyF.png)
 | Nr. | Name                    | Description                                                                      |
 |-----|-------------------------|----------------------------------------------------------------------------------|
 | 1   | Rename Button           | Click to change the Name of the PiVault                                          |
 | 2   | Wifi Settings Button    | Click to change the Wifi Settings                                                |
 | 3   | Transfer Button         | Click to Unbind the PiVault from your Account and allow Ownership transfer to another User. **WARNING: This is only Intended for Transfering Ownership of the PiVault (eg. when selling it) *NOT* for giving another user control, to give another user control, see Keyholder codes / Public Links described further below**                                                              |
-| 4   | Limits Button           | Click to Access the Limits Settings                                              |
+| 4   | Limits Button           | Click to access the Limits Settings                                              |
 | 5   | Emergency Unlock Toggle | Click to toggle between enabling and disabling the Emergency Unlock Function (Not visible if there are Keyholders and Emergency Unlock has been disabled) |
-| 6   | PiVault ID              | Your PiVault ID; Required for Certain API Applications as well as Troubleshooting |
+| 6   | Hygiene Button          | click to change Hygiene settings                                                  |
+| 8   | Emlalock Button         | Click to access Emlalock settings to use your PiVault with Emlalock               |
+| 8   | PiVault ID              | Your PiVault ID; Required for Certain API Applications as well as Troubleshooting |
 
 #### **1.1.1** Limits
 ![PiVaultLimits](https://i.imgur.com/aWobraz.png)<br>
@@ -74,6 +77,28 @@ Once unlocked, you just need to twist the PiVault lid counter clockwise and pull
 | 5   | Confirm Button                    | Click to Confirm the settings to the Limit Settings                 |
 
 **Note: "Unlocked By Default" can only be changed when no keyholder is present. Limits can only be changed when no session is active.**
+
+#### **1.1.2** Emlalock
+![Emlalock](https://i.imgur.com/w1l5YCb.png)<br />
+| Nr. | Name                                  | Description                                                                 |
+|-----|---------------------------------------|-----------------------------------------------------------------------------|
+| 1   | Enable Toggle                         | Click to enable Emlalock integration.                                       |
+| 2   | Emlalock User ID                      | Enter your Emlalock User ID here.                                           |
+| 3   | Emlalock API Key                      | Enter your Emlalock API Key here.                                           |
+| 4   | Validate Button                       | Click to valide your Emlalock credentials.                                  |
+| 5   | No Keyholder Mode Toggle              | Click to enable "no keyholder mode" when an Emlalock session is in process. |
+| 6   | Close Button                          | Click to close the dialog.                                                  |
+| 7   | Confirm Button                        | Click to save your currently selected settings.                             |
+
+Emlalock is a keyholding platform that has many options, games, and features for keyholding sessions. Emlalock can be used to contol PiVault sessions. To get started, enable the Emlalock feature in the PiVault contol panel. Obtain your Emlalock User ID and API Key by going to the [Emlalock Settings Page](https://www.emlalock.com/#/settings) and click on the "API" tab. Enter these details on the Emlalock options in the PiVault control panel. Click on "Validate", and then "Confirm", and close the window.
+
+Once this is enabled, starting a session on Emlalock will start a session on your PiVault, and the PiVault cannot be opened until the Emlalock session has ended or a hygene period is in effect (see below). 
+
+**Important things to note:**
+1) Emlalock is a third party service not affiliated with PiShock. We are not responsible for any issues with their platform.
+2) Due to how Emlalock's API works, hygiene settings must be configured on the PiVault contol panel prior to a session starting. Configuring "Hygiene Openings" on Emlalock's website will not allow the PiVault to be opened.
+3) If you are self-keyholding, enable "No Keyholder Mode" in the Emlalock setings on the PiVault control panel. If you are playing with a keyholder, ensure they have keyholder access to your lockbox before enabling Emlalock integration. 
+4) You cannot enable Emlalock integration until your User ID and API Key are validated.
 
 ---
 ### 1.2. Hygiene Opening Settings
