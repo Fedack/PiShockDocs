@@ -29,6 +29,7 @@ Please use the Table of contents below to navigate this document.
 1. General Interface<br> 1.1 Advanced Settings
 2. Shocker Interface<br> 2.1 VR Interface<br> 2.2 Sharelinks and codes<br>&nbsp;&nbsp;&nbsp;&nbsp;2.2.1. Share Codes<br>&nbsp;&nbsp;&nbsp;&nbsp;2.2.2. Share Links<br>2.3. Using Sharelinks and codes<br>&nbsp;&nbsp;&nbsp;&nbsp;2.3.1. Share Codes<br>&nbsp;&nbsp;&nbsp;&nbsp;2.3.2. Share Links
 3. Tips<br> 3.1 Portable Operation
+4. Firmware Update
 ---
 
 ## 1. General Interface
@@ -197,3 +198,22 @@ Sometimes if you see that your shocker doesn't work, it can mean it is unpaired.
 **3:** Send a vibrate from the website. You have a few seconds to do that. If it vibrate, it means it is paired.
 
 This process is the same for switching between the offline remote and the PiShock.
+
+## 4. Firmware Update
+Sometimes the software on your PiShock may need to be updated or reloaded. This may be to enable a new feature announced on our [Discord Community](https://discord.gg/MrNb9CQyYA), or to troubleshoot an issue with your PiShock. To update the firmware on your device, you will need a computer running Windows 10 or Windows 11.
+
+These instructions only apply to the current model PiShock that has been sold since November 2021. This model can be identified by a red LED on the side of the PiShock when plugged in. These instructions will not work for older models of PiShock that are based on a Raspberry Pi. Please contact our support team via [Discord](https://discord.gg/MrNb9CQyYA) if you have any questions.
+
+1) Download and extract the [Firmware Update Tool](https://drive.google.com/drive/folders/1DMEEUxA0sgHjLUxY-x2wLTMKEJM7iZ9O?usp=sharing).
+2) Plug your PiShock into your computer using a USB cable.
+3) Right click on the "PiShock Flash Tool" file and click "Run as Administrator". This is necessary to allow the software to make changes to your device.
+4) You should see your PiShock listed, and it should have the word "COM" followed by a number following it's name. If not, see the steps below to troubleshoot this.
+5) Select "Lite" at the bottom and then click "Flash".
+6) Once the Firmware has finished loading, click on the WiFi icon next to your device, and click "Add" to configure your wireless network settings.
+
+If the device does not show up in Step #4, or if it does not have the word "COM" following the name, try these steps:
+1) Unplug the PiShock from your PC and plug it back in.
+2) Try a different USB cable.
+3) Download and install the CP210x Universal Driver from [here](https://drive.google.com/drive/folders/1DMEEUxA0sgHjLUxY-x2wLTMKEJM7iZ9O?usp=sharing).
+
+**Note:** Normally firmware updates are not necessary. You should only follow this process if a new feature is announced that requires a firmware update, or if our support staff asks you to in order to troubleshoot an issue.

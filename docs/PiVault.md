@@ -1,5 +1,5 @@
 # PiVault Documentation
-If you have issues or questions not answered within this document, please join our [Discord-Community](https://discord.gg/MrNb9CQyYA).<br>
+If you have issues or questions not answered within this document, please join our [Discord Community](https://discord.gg/MrNb9CQyYA).<br>
 
 ---
 Please use the Table of contents below to navigate this document.
@@ -20,6 +20,7 @@ Please use the Table of contents below to navigate this document.
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1.5.1 Create / Modify Public Links
     <br>1.6. API Keys
     <br>1.7. Keyholder Codes
+2. Firmware Update
 ---
 ## PiVault General Operation
 The button on the PiVault can serve 3 purposes:
@@ -246,3 +247,20 @@ Keyholders can:
 - See your logs
 - Unlock
 - Start a session
+
+## 2. Firmware Update
+Sometimes the software on your PiVault may need to be updated or reloaded. This may be to enable a new feature announced on our [Discord Community](https://discord.gg/MrNb9CQyYA), or to troubleshoot an issue with your PiVault. To update the firmware on your device, you will need a computer running Windows 10 or Windows 11.
+
+1) Download and extract the [Firmware Update Tool](https://drive.google.com/drive/folders/1DMEEUxA0sgHjLUxY-x2wLTMKEJM7iZ9O?usp=sharing).
+2) Plug your PiVault into your computer using a USB cable.
+3) Right click on the "PiShock Flash Tool" file and click "Run as Administrator". This is necessary to allow the software to make changes to your device.
+4) You should see your PiVault listed, and it should have the word "COM" followed by a number following it's name. If not, see the steps below to troubleshoot this.
+5) Select "PiVault" at the bottom and then click "Flash".
+6) Once the Firmware has finished loading, click on the WiFi icon next to your device, and click "Add" to configure your wireless network settings.
+
+If the device does not show up in Step #4, or if it does not have the word "COM" following the name, try these steps:
+1) Unplug the PiVault from your PC and plug it back in.
+2) Try a different USB cable.
+3) Download and install the CP210x Universal Driver from [here](https://drive.google.com/drive/folders/1DMEEUxA0sgHjLUxY-x2wLTMKEJM7iZ9O?usp=sharing).
+
+**Note:** Normally firmware updates are not necessary. You should only follow this process if a new feature is announced that requires a firmware update, or if our support staff asks you to in order to troubleshoot an issue.
