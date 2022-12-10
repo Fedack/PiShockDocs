@@ -20,7 +20,8 @@ Please use the Table of contents below to navigate this document.
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1.5.1 Create / Modify Public Links
     <br>1.6. API Keys
     <br>1.7. Keyholder Codes
-2. Firmware Update
+2. Emergency Unlock
+3. Firmware Update
 ---
 ## PiVault General Operation
 The button on the PiVault can serve 3 purposes:
@@ -248,7 +249,14 @@ Keyholders can:
 - Unlock
 - Start a session
 
-## 2. Firmware Update
+## 2. Emergency Unlock
+The PiVault Lockbox has an emergency unlock feature that allows opening the lockbox while an active session is in progress. This feature is available even if the Lockbox is not connected to WiFi or is unable to connect to the PiShock servers to check its status. This feature is useful in situations where a lockee may need to immediately access their key(s) for an unexpected and unplanned situation.
+
+To use the emergency unlock feature, hold down the button on the back of the PiVault for 15 seconds. The light will turn yellow and the lockbox will unlock. This will be logged to the session log. If the PiVault is currently offline, it will report this the next time it comes online.
+
+By default, the emergency unlock feature is enabled for all lockboxes. This can be disabled in the advanced settings (see Section 1.1 above) if desired. Please be aware that if emergency unlocks are disabled and a keyholder is unable to end a session prematurely, the only way to access the key inside would be to wait for the session to end or to physically break the lockbox. Damage caused to the lockbox due to forcing it open while the emergency unlock feature is disabled is not covered by warranty. 
+
+## 3. Firmware Update
 Sometimes the software on your PiVault may need to be updated or reloaded. This may be to enable a new feature announced on our [Discord Community](https://discord.gg/MrNb9CQyYA), or to troubleshoot an issue with your PiVault. To update the firmware on your device, you will need a computer running Windows 10 or Windows 11.
 
 1) Download and extract the [Firmware Update Tool](https://drive.google.com/drive/folders/1DMEEUxA0sgHjLUxY-x2wLTMKEJM7iZ9O?usp=sharing).
