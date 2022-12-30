@@ -8,6 +8,7 @@ Please use the Table of contents below to navigate this document.
     <br>1.1. Advanced Settings
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1.1.1 Limits
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1.1.2 Emlalock
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;1.1.3 Chaster
     <br>1.2. Hygiene Opening Settings
     <br>1.3. Unlock Settings
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1.3.1 Timed Unlock
@@ -56,7 +57,7 @@ Once unlocked, you just need to twist the PiVault lid counter clockwise and pull
 | 17  | PiVault Log                  | Lists all events reported by the PiVault (Open, Close, Emergency, etc) |
 ---
 ### 1.1 Advanced Settings
-![PiVaultAdvancedSettings](https://i.imgur.com/2yclpyF.png)
+![PiVaultAdvancedSettings](https://i.imgur.com/R4slgJL.png)
 | Nr. | Name                    | Description                                                                      |
 |-----|-------------------------|----------------------------------------------------------------------------------|
 | 1   | Rename Button           | Click to change the Name of the PiVault                                          |
@@ -65,7 +66,7 @@ Once unlocked, you just need to twist the PiVault lid counter clockwise and pull
 | 4   | Limits Button           | Click to access the Limits Settings                                              |
 | 5   | Emergency Unlock Toggle | Click to toggle between enabling and disabling the Emergency Unlock Function (Not visible if there are Keyholders and Emergency Unlock has been disabled) |
 | 6   | Hygiene Button          | click to change Hygiene settings                                                  |
-| 7   | Emlalock Button         | Click to access Emlalock settings to use your PiVault with Emlalock               |
+| 7   | Chaster / Emlalock      | Click to access settings for using your PiVault with external keyholding services |
 | 8   | PiVault ID              | Your PiVault ID; Required for Certain API Applications as well as Troubleshooting |
 
 #### **1.1.1** Limits
@@ -101,6 +102,25 @@ Once this is enabled, starting a session on Emlalock will start a session on you
 2) Due to how Emlalock's API works, hygiene settings must be configured on the PiVault contol panel prior to a session starting. Configuring "Hygiene Openings" on Emlalock's website will not allow the PiVault to be opened.
 3) If you are self-keyholding, enable "No Keyholder Mode" in the Emlalock setings on the PiVault control panel. If you are playing with a keyholder, ensure they have keyholder access to your lockbox before enabling Emlalock integration. 
 4) You cannot enable Emlalock integration until your User ID and API Key are validated.
+
+#### **1.1.3** Chaster
+![Chaster](https://i.imgur.com/0R0xWyb.png)<br />
+| Nr. | Name                                  | Description                                                                 |
+|-----|---------------------------------------|-----------------------------------------------------------------------------|
+| 1   | Authorize Button                      | Click to authorize PiVault to access your Chaster account.                  |
+| 2   | Lock Selection                        | Select which lock you wish to use from Chaster.                             |
+| 3   | Enable Button                         | Click to enable Chaster integration.                                        |
+| 4   | Close Button                          | Click to close the dialog.                                                  |
+| 5   | Confirm Button                        | Click to save your currently selected settings.                             |
+
+Chaster is a keyholding platform that has a number of features and "Extensions" (games, tasks, randomness, etc) for keyholding sessions. Like Emlalock, your PiVault can be connected to a Chaster account to control PiVault sessions. To get started, click the "Authorize" button to allow PiVault to access your Chaster account. You (or your keyholder) can then create a lock on Chaster (or find one in their "Explore" section). Once a lock is created, slect it from the drop down menu (item 2 in the image), and then click "Enable" and then "Confirm". Chaster will want a combination, but you can just click "generate" and ignore the output, as the PiVault does not rely on a combination lock.
+
+Once a lock is selected and enabled, your PiVault will follow that lock's session on Chaster. You will not be able to unlock your PiVault until the session ends on Chaster (except for hygene openings and emergency unlocks). Once the session on Chaster is ready to unlock, you must "end" the session to enable the PiVault to be unlocked.
+
+**Important things to note:**
+1) Chaster is a third party service not affiliated with PiShock. We are not responsible for any issues with their platform.
+2) Due to how Chasters's API works, hygiene settings must be configured on the PiVault contol panel prior to a session starting. Configuring "Hygiene Openings" on Chaster's website will not allow the PiVault to be opened.
+3) All Chaster sessions are treated as "No Keyholder Mode" - you will not have access to change any settings on your PiVault while a Chaster session is in progress.
 
 ---
 ### 1.2. Hygiene Opening Settings
