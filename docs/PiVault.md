@@ -65,7 +65,7 @@ Once unlocked, you just need to twist the PiVault lid counter clockwise and pull
 | 4   | Limits Button           | Click to access the Limits Settings                                              |
 | 5   | Emergency Unlock Toggle | Click to toggle between enabling and disabling the Emergency Unlock Function (Not visible if there are Keyholders and Emergency Unlock has been disabled) |
 | 6   | Hygiene Button          | click to change Hygiene settings                                                  |
-| 8   | Emlalock Button         | Click to access Emlalock settings to use your PiVault with Emlalock               |
+| 7   | Emlalock Button         | Click to access Emlalock settings to use your PiVault with Emlalock               |
 | 8   | PiVault ID              | Your PiVault ID; Required for Certain API Applications as well as Troubleshooting |
 
 #### **1.1.1** Limits
