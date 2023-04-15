@@ -28,7 +28,7 @@ The shock collar included with PiShock has three operations: shock, vibrate, and
 | Op      | 1         | Vibrate       |
 | Op      | 2         | Beep          |
 
-Requests should be sent as a `POST` request to https://do.pishock.com/api/apioperate/:
+
 
 ```
 POST https://do.pishock.com/api/apioperate/
@@ -42,7 +42,7 @@ Content-Type: application/json
 ------------------
 #### Shock
 This allows you to activate the shock function of the shock collar. It will shock the wearer with a specified *duration* and *intensity*.
-> `POST` /
+> `POST` https://do.pishock.com/api/apioperate/
 
 The following variables must be set to send a shock command.
 | **Key**   | **Value Type**    | **Example** | **Description**                                                                              |
@@ -60,7 +60,7 @@ curl -d '{"Username":"puppy73","Name":"TG_Bot_Script","Code":"17519CD8GAP","Inte
 ------------------
 #### Vibrate
 This allows you to activate the vibration function of the shock collar. It will vibrate the shocker with a specified *duration* and *intensity*.
-> `POST` /
+> `POST` https://do.pishock.com/api/apioperate/
 
 The following variables must be set to send a vibrate command.
 | Key       | Value Type        | Example | Description                                                                    |
@@ -78,7 +78,7 @@ curl -d '{"Username":"puppy73","Name":"TG_Bot_Test","Code":"17519CD8GAP","Intens
 ------------------
 #### Beep
 This allows you to activate the beep function of the shock collar. It will cause the shocker to beep with a specified duration and intensity.
-> `POST` /
+> `POST` https://do.pishock.com/api/apioperate/
 
 The following variables must be set to send a beep command.
 | Key      | Value Type | Example | Description                                                             |
@@ -91,6 +91,21 @@ Example:
 ```bash
 curl -d '{"Username":"puppy73","Name":"TG_Bot_Test","Code":"17519CD8GAP","Duration":"3","Apikey":"5c678926-d19e-4f86-42ad-21f5a76126db","Op":"2"}' -H 'Content-Type: application/json' https://do.pishock.com/api/apioperate
 ```
+
+
+------------------
+#### Shocker info
+This allows you to get information about the shock collar. This will respond with JSON containing the data
+> `POST` https://do.pishock.com/api/GetShockerInfo
+
+This does not require any extra variables.
+
+Example:
+
+```bash
+curl -d '{"Username":"puppy73","Code":"17519CD8GAP","Apikey":"5c678926-d19e-4f86-42ad-21f5a76126db"}' -H 'Content-Type: application/json' https://do.pishock.com/api/GetShockerInfo
+```
+
 
 ------------------
 ### Responses
