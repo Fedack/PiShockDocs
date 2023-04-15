@@ -95,7 +95,8 @@ curl -d '{"Username":"puppy73","Name":"TG_Bot_Test","Code":"17519CD8GAP","Durati
 
 ------------------
 #### Shocker info
-This allows you to get information about the shock collar. This will respond with JSON containing the data
+This allows you to get information about the shock collar.
+The response is sent in JSON format and includes information such as the shock collar's client ID, name, maximum intensity, maximum duration, and online status.
 > `POST` https://do.pishock.com/api/GetShockerInfo
 
 This does not require any extra variables.
