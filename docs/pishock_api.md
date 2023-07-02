@@ -117,10 +117,10 @@ When a command is successfully received by the server, you will receive a respon
 | Operation Succeeded.                                          | The command was sent successfully.                                                                                        |
 | This code doesn’t exist.                                      | The specified share code could not be found. Make sure you create and copy an active share code from the PiShock website. |
 | Not Authorized.                                               | The specified username or apikey is not correct (or your account has not been activated).                                 |
-| Shocker is Paused, unable to send command.                    | The shocker is paused (from the PiShock.com web panel).                                                                   |
+| Shocker is Paused or does not exist. Unpause to send command. | The shocker is paused (from the PiShock.com web panel).                                                                   |
 | Device currently not connected.                               | The PiShock is offline.                                                                                                   |
 | This share code has already been used by somebody else.       | Someone (or something) else is using the specified share code. Generate a new one.                                        |
-| Unknown Op, use 0 for shock, 1 for vibrate and 2 for beep.    | Invalid Op code specified. Must be 0, 1, or 2.                                                                            |
+| Unknown Op, use 0 for shock, 1 for vibrate and 2 for beep     | Invalid Op code specified. Must be 0, 1, or 2.                                                                            |
 | Intensity must be between 0 and {maxint}                      | The specified intensity was outside the permitted range.                                                                  |
 | Duration must be between 1 and {maxdur}                       | The specified duration was outside the permitted range.                                                                   |
 
