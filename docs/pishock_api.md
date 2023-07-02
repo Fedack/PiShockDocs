@@ -119,8 +119,12 @@ When a command is successfully received by the server, you will receive a respon
 | Not Authorized.                                               | The specified username or apikey is not correct (or your account has not been activated).                                 |
 | Shocker is Paused or does not exist. Unpause to send command. | The shocker is paused (from the PiShock.com web panel).                                                                   |
 | Device currently not connected.                               | The PiShock is offline.                                                                                                   |
+| Device in Use.                                                | The PiShock is already executing commands and cannot send another right now.                                              |
 | This share code has already been used by somebody else.       | Someone (or something) else is using the specified share code. Generate a new one.                                        |
 | Unknown Op, use 0 for shock, 1 for vibrate and 2 for beep     | Invalid Op code specified. Must be 0, 1, or 2.                                                                            |
+| Shock not allowed.                                            | A shock was sent on a share code which does not allow shocking.                                                           |
+| Vibrate not allowed.                                          | A vibration was sent on a share code which does not allow vibration.                                                      |
+| Beep not allowed.                                             | A beep was sent on a share code which does not allow beeping.                                                             |
 | Intensity must be between 0 and {maxint}                      | The specified intensity was outside the permitted range.                                                                  |
 | Duration must be between 1 and {maxdur}                       | The specified duration was outside the permitted range.                                                                   |
 
