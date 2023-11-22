@@ -1,5 +1,7 @@
 # PiShock Documentation
-If you have issues or questions not answered within this document, please join our [Discord-Community](https://discord.gg/MrNb9CQyYA) or email fedack@pishock.com.<br>
+If you have issues or questions not answered within this document, please join our [Discord-Community](https://discord.gg/MrNb9CQyYA) or email helpdesk@pishock.com.<br>
+
+THE DOCUMENTATION BELOW IS NOT UP TO DATE. WE ARE CURRENTLY UPDATING IT.
 
 ---
 ##  Safety Instructions
