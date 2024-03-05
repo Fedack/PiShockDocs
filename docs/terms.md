@@ -283,4 +283,4 @@ a third country or territory, excluding NI, to an address in NI (e.g. USA to NI)
 in Great Britain or NI, the total intrinsic value of the Product or Products comprising that order does not exceed £135 (one hundred and thirty five) British Pounds Sterling, or where Products comprising an order exceed that sum but are sent in separate consignments, the intrinsic value of each consignment of which the Product or Products form part does not exceed £135 (one hundred and thirty five) British Pounds Sterling; and
 in a Member State of the EU, the total intrinsic value of the Product or Products comprising that order does not exceed €150 (one hundred and fifty) Euros, or where Products comprising an order exceed that sum but are sent in separate consignments, the intrinsic value of each consignment of which the Product or Products form part does not exceed €150 (one hundred and fifty) Euros.
 
-- By email: fedack@pishock.com
+- By email: helpdesk@pishock.com
