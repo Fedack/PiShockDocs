@@ -72,4 +72,4 @@ If the Goods weren't marked as a gift when purchased, or the gift giver had the 
 If you have any questions about our Returns and Refunds Policy, please contact us:
 
 
-- By email: fedack@pishock.com
+- By email: helpdesk@pishock.com
