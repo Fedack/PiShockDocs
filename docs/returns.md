@@ -32,7 +32,7 @@ For the purposes of this Return and Refund Policy:
 
 # Your Order Cancellation Rights
 
-You are entitled to cancel Your Order within 7 days as long as the fulfillment, the packing of the package, hasn't started.
+You are entitled to return Your Order within 14 days as long as the product is unopened.
 
 In order to exercise Your right of cancellation, You must inform Us of your decision by means of a clear statement. You can inform us of your decision by:
 
