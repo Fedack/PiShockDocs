@@ -32,7 +32,7 @@ For the purposes of this Return and Refund Policy:
 
 # Your Order Cancellation Rights
 
-You are entitled to return Your Order within 14 days as long as the product is unopened.
+You may cancel your order up to the point the item is being processed for shipment.
 
 In order to exercise Your right of cancellation, You must inform Us of your decision by means of a clear statement. You can inform us of your decision by:
 
@@ -47,7 +47,9 @@ We will reimburse You no later than 14 days from the day on which We receive the
 
 # Conditions for Returns
 
-The device must be unoponed and as received.
+Returns are accepted as long as The Goods have not been opened and are in the same condition as they have been received.
+
+Returns are only accepted after communications with Us and approval from both parties due to logistical concerns. Contact Us by email or on our discord. See the Cancellation Rights section for the email.
 
 # Returning Goods
 
