@@ -47,7 +47,7 @@ We will reimburse You no later than 14 days from the day on which We receive the
 
 # Conditions for Returns
 
-Due to the nature of the Goods, we do not accept returns.
+The device must be unoponed and as received.
 
 # Returning Goods
 
