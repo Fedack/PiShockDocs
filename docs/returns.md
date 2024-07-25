@@ -37,7 +37,7 @@ You are entitled to return Your Order within 14 days as long as the product is u
 In order to exercise Your right of cancellation, You must inform Us of your decision by means of a clear statement. You can inform us of your decision by:
 
 
-- By email: fedack@pishock.com
+- By email: helpdesk@pishock.com
 
 
 
