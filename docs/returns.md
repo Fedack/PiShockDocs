@@ -21,7 +21,7 @@ The words of which the initial letter is capitalized have meanings defined under
 For the purposes of this Return and Refund Policy:
 
 
-- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to PiShock Inc., 6684 rue D&#39;Aragon, Montreal QC Canada H4E3B3.
+- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to PiShock Inc., 6684 rue D&#39;Aragon, Montreal QC Canada H4E3B3. The business number of PiShock Inc. is 760731547.
 - __Goods__ refer to the items offered for sale on the Service.
 - __Orders__ mean a request by You to purchase Goods from Us.
 
