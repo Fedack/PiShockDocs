@@ -47,8 +47,6 @@ We will reimburse You no later than 14 days from the day on which We receive the
 
 # Conditions for Returns
 
-Returns are accepted as long as The Goods have not been opened and are in the same condition as they have been received.
-
 Returns are only accepted after communications with Us and approval from both parties due to logistical concerns. Contact Us by email or on our discord. See the Cancellation Rights section for the email.
 
 # Returning Goods
