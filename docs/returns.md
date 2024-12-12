@@ -32,7 +32,7 @@ For the purposes of this Return and Refund Policy:
 
 # Your Order Cancellation Rights
 
-You may cancel your order up to the point the item is being processed for shipment.
+You may cancel your order up to the point the item is being processed for shipment or 9 days after your order was submitted, whichever comes first.
 
 In order to exercise Your right of cancellation, You must inform Us of your decision by means of a clear statement. You can inform us of your decision by:
 
